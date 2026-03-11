@@ -1,0 +1,51 @@
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:72 Testcase test_verify_login_excel_005 is starting....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:74 Opening the browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:89 Checking the driver title CredKart
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:108 Sub testcases are starts ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:133 Entering the email address.... credUser_1447@gmail.com 
+[32mINFO    [0m root:loginpage.py:73 Email Address element found out
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:139 Entering the password.... credUser_1447
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:146 Clicking login button
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:151 Checking login status 
+[32mINFO    [0m root:loginpage.py:126 menu button is visible
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:154 pass
+[32mINFO    [0m root:loginpage.py:126 menu button is visible
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:160 Write actual in excel file ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:165 Login Successful
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:171 CliKing on menu button ...
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:173 CliKing on logout button....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:175 Logout Successful....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:176 ********************
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:202 Write testcase result in excel file ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:133 Entering the email address.... credUser_14471@gmail.com 
+[32mINFO    [0m root:loginpage.py:73 Email Address element found out
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:139 Entering the password.... credUser_1447
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:146 Clicking login button
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:151 Checking login status 
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:154 fail
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:185 Login failed
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:186 Write actual result in excel file.....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:190 ********************
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:202 Write testcase result in excel file ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:133 Entering the email address.... credUser_1447@gmail.com 
+[32mINFO    [0m root:loginpage.py:73 Email Address element found out
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:139 Entering the password.... credUser_16447
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:146 Clicking login button
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:151 Checking login status 
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:154 fail
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:185 Login failed
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:186 Write actual result in excel file.....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:190 ********************
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:202 Write testcase result in excel file ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:133 Entering the email address.... credUser_14467@gmail.com 
+[32mINFO    [0m root:loginpage.py:73 Email Address element found out
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:139 Entering the password.... credUser_16447
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:146 Clicking login button
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:151 Checking login status 
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:154 fail
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:185 Login failed
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:186 Write actual result in excel file.....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:190 ********************
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:202 Write testcase result in excel file ....
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:221 Entire testcase test_verify_login_excel_005 is passed
+[32mINFO    [0m root:test_credkart_login_ddt_excel_005.py:226 Testcase test_verify_login_002 is completed....

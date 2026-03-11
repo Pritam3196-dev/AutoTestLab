@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_credkart_login_001.py:60 Testcase test_verify_credkart_url_001 is starting....
+[32mINFO    [0m root:test_credkart_login_001.py:63 Opening the browser and getting https://automation.credence.in/shop
+[32mINFO    [0m root:test_credkart_login_001.py:66 Checking Title of driver.... CredKart
+[32mINFO    [0m root:test_credkart_login_001.py:69 Taking screenshot when testcase test_verify_credkart_url_001 passing
+[32mINFO    [0m root:test_credkart_login_001.py:73 Testcase test_verify_credkart_url_001 is passed
+[32mINFO    [0m root:test_credkart_login_001.py:86 Testcase test_verify_credkart_url_001 is completed....

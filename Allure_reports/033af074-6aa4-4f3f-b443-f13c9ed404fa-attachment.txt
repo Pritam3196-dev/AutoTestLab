@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_registration_002.py:42 Testcase test_register_002 is starting ....
+[32mINFO    [0m root:test_registration_002.py:44 Opening browser and getting https://automation.credence.in/register
+[32mINFO    [0m root:test_registration_002.py:47 Checking the driver title ..... CredKart
+[32mINFO    [0m root:test_registration_002.py:60 Entering name....
+[32mINFO    [0m root:test_registration_002.py:66 Entering email
+[32mINFO    [0m root:test_registration_002.py:70 Entering password
+[32mINFO    [0m root:test_registration_002.py:76 Entering confirm password
+[32mINFO    [0m root:test_registration_002.py:84 CliKing register button ....
+[32mINFO    [0m root:test_registration_002.py:94 Taking screenshot when testcase test_register_002 is passing
+[32mINFO    [0m root:test_registration_002.py:97 Testcase test_register_002 is passed
+[32mINFO    [0m root:test_registration_002.py:107 Testcase test_register_002 is completed
